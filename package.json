@@ -1,7 +1,7 @@
 {
   "name": "trello-card-counter",
   "title": "trello-card-counter",
-  "id": "jid1-X2kYWlMwCUqiyA",
+  "id": "TrelloCardCounter@0.1",
   "description": "Display Trello list number of cards",
   "author": "Rémy HUBSCHER <natim@mozilla.com>",
   "license": "MPL 2.0",
